@@ -1,1 +1,3 @@
 # quote-generator
+
+DOM MANIPULATION PRACTICE
